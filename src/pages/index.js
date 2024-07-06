@@ -23,7 +23,9 @@ export default function Home() {
                   </svg>
               </div>
               <h1 className="mb-4 mt-6 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white ">
-                We Are <span className='bg-gradient-to-r from-indigo-500 via-purple-500 via-purple-500 to-pink-500 bg-clip-text text-transparent'>Tricista!</span>
+                <span className='bg-gradient-to-r from-indigo-500 via-purple-500 via-purple-500 to-pink-500 bg-clip-text text-transparent'>
+                  Tricista Enterprise
+                </span>
               </h1>
               <p className="mb-8 text-xl font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-200">
                 We're working on something awesome!
