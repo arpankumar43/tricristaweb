@@ -22,6 +22,9 @@ export default function Home() {
                       <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m1 9 4-4-4-4"/>
                   </svg>
               </div>
+              {/* <a href='#' className='inline-flex py-1 px-1 pe-4 mb-7 '>
+                <img src="/logo-new.png" />
+              </a> */}
               <h1 className="mb-4 mt-6 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white ">
                 <span className='bg-gradient-to-r from-indigo-500 via-purple-500 via-purple-500 to-pink-500 bg-clip-text text-transparent'>
                   Tricista Enterprise
